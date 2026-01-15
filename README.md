@@ -10,7 +10,7 @@ It enables business stakeholders to understand customer purchasing behavior, ide
 ---
 
 ## 📂 Dataset
-
+[Dataset](https://1drv.ms/x/c/b6a269acdd209362/IQB5LJEaYR0rTbvipXBNj0VSAfAAcEiOMI8S0BdFBmJK5ww?e=jnhPQe)
 The dataset contains detailed coffee shop sales transactions recorded across multiple store locations and time periods.
 
 ### Key Attributes:
@@ -72,8 +72,7 @@ These KPIs help uncover best-selling products, peak sales hours, customer size p
 
 ## 📊 Dashboard Preview
 
-👉 Add dashboard image or link here  
-(Excel dashboard built using Pivot Tables, Pivot Charts, slicers, and KPI cards)
+👉[DASHBOARD]([Coffee_Sales_Analysis.xlsx](https://github.com/user-attachments/files/24639311/Coffee_Sales_Analysis.xlsx)
 
 ---
 
@@ -90,7 +89,8 @@ These KPIs help uncover best-selling products, peak sales hours, customer size p
 
 ## 📊 Dashboard
 
-(Insert dashboard screenshot here)
+
+<img width="1470" height="702" alt="Screenshot 2026-01-15 153008" src="https://github.com/user-attachments/assets/59fee645-0502-4f76-bbd4-de7ccd0affbd" />
 
 ---
 
