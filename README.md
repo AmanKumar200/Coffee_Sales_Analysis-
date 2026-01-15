@@ -11,6 +11,7 @@ It enables business stakeholders to understand customer purchasing behavior, ide
 
 ## 📂 Dataset
 [Dataset](https://1drv.ms/x/c/b6a269acdd209362/IQB5LJEaYR0rTbvipXBNj0VSAfAAcEiOMI8S0BdFBmJK5ww?e=jnhPQe)
+
 The dataset contains detailed coffee shop sales transactions recorded across multiple store locations and time periods.
 
 ### Key Attributes:
@@ -72,7 +73,7 @@ These KPIs help uncover best-selling products, peak sales hours, customer size p
 
 ## 📊 Dashboard Preview
 
-👉[DASHBOARD]([Coffee_Sales_Analysis.xlsx](https://github.com/user-attachments/files/24639311/Coffee_Sales_Analysis.xlsx)
+👉[DASHBOARD](https://github.com/user-attachments/files/24639311/Coffee_Sales_Analysis.xlsx)
 
 ---
 
